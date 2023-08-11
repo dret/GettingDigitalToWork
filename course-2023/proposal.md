@@ -46,5 +46,6 @@ What distinguishes this course from others is a more holistic viewpoint. We star
 
 ### Afternoon: API Programs and Platforms
 
+- API Governance
 - API Guidelines
 - Center of Excellence vs. Center for Enablement
