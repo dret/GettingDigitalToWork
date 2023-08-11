@@ -9,22 +9,36 @@ What distinguishes this course from others is a more holistic viewpoint. We star
 
 ### Morning: API Foundations
 
+#### APIs (DL)
+
 - What is an API and why APIs?
 - Private, partner, and public APIs
 - API Styles and API Technologies
+-- HTTP, HTTP/REST, GraphQL, Messages, Events, ...
 - API Description Languages
+
+#### REST (EW)
+
 - RESTful APIs: HTTP as an Application Protocol
 
 ### Afternoon: Building a Good API
 
+#### APIs as Products (EW)
+
 - API Business Models
 - API Products and API First
+
+#### Lifecycle & Versioning (DL)
+
 - API Lifecycle
 - API Versioning
+- Compatibility
 
 ## Day 2: Managing the API Lifecycle
 
 ### Morning: The API Design Process
+
+#### ADDR (EW)
 
 - Aligning Business Goals
 - Defining the Ubiquitous Language
@@ -33,19 +47,42 @@ What distinguishes this course from others is a more holistic viewpoint. We star
 - API Linting
 - API Mocking
 
+#### Patterns? (DL)
+
+- EIP (Correlation)
+- MAP (...)
+
 ### Afternoon: API Development
 
+#### Tools I (beide: Tools suchen)
+
 - Postman Collections and Workspaces
+- stop light
+- OpenAPI Generator
 - APIs and SDKs
 - API Documentation
 - API Security
+
+#### Tools II (später)
+
+- Lab Tools
 
 ## Day 3: Scaling the API Practice
 
 ### Morning: APIs and Automation
 
-### Afternoon: API Programs and Platforms
+#### API Governance, Programs and Platforms (EW)
 
-- API Governance
-- API Guidelines
+- Governance
+-- API Guidelines
 - Center of Excellence vs. Center for Enablement
+
+#### Build/Platform (DL)
+
+- Projektstrukturen
+- Integration in Builds
+- Linter
+- Templates
+- API Gateways to enforce development process
+
+### Afternoon: "Life Hacking", bring it all together, example project (später nach Tools)
