@@ -1,0 +1,23 @@
+What topics of an in-depth report in the API domain would be interesting for you?
+
+[ ] Finding und educating employees for API initiates, API design, and API implementation
+[ ] Usage of tools for API development
+[ ] Success factors of API program implementations
+[ ] Best Practices in API programs
+
+If we publish a report on your API subjects of interest, do you want to get a copy? If yes, please provide us your email address so that we can send the report to you:
+_____________________
+
+What is your role?
+[ ] Software Developer
+[ ] API Designer
+[ ] API in-house evangelist
+[ ] API Program Manager
+[ ] Project Manager
+[ ] Other: _____________________
+
+In what industry does your company/organization operate?
+-> Standardized list?
+
+How large is your company/organization?
+-> Standardized employee ranges?
