@@ -1,5 +1,8 @@
 # Event Calendar Erik Wilde
 
-## 2023
+## Event Title; Event Location; Date (latest first)
 
-- [API Days London](https://www.apidays.global/london/), September 13/14, 2023
+### 2023
+
+- [API Days Australia](https://www.apidays.global/australia/); Melbourne, Australia; October 11/12, 2023
+- [API Days London](https://www.apidays.global/london/); London, UK; September 13/14, 2023
