@@ -1,0 +1,5 @@
+# Bio Erik Wilde
+
+With over 10 years of experience in the API field, Erik is passionate about helping organizations on their digital transformation journeys, making sure that vision, strategy, and technology are aligned, and that they are driven by well-aligned business and organizational initiatives. As an OAI Ambassador at the [OpenAPI Initiative](https://www.openapis.org/), Erik promotes the adoption and use of open standards and best practices for API design and management, and with [Getting APIs to Work](https://youtube.com/ErikWilde), he is running the most visible content channel for the API community.
+
+Erik has a strong background in digital transformation, API design, and API governance, and has contributed to many publications, patents, and standards. He has also worked with various industries and sectors, such as healthcare, education, finance, and government, to help them leverage the power and potential of APIs for innovation, integration, and automation. His mission is to help organizations get APIs to work in a truly transformative way, by ensuring that they have the right APIs, and that they design and manage them in the right way.
