@@ -9,3 +9,11 @@ This course has three half-days with specific purposes:
 - Day 3 focuses in practical aspects of using the specification. We look at tooling to lint OpenAPI against design guidelines, how to use OpenAPI to quickly set of mock servers, and how to use OpenAPI
 
 
+## Day 1: Introduction to APIs and OpenAPI
+
+
+## Day 2: Describing APIs with the OpenAPI Specification
+
+
+## Day 3: Using OpenAPI during the API Lifecycle
+
