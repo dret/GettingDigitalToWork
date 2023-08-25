@@ -11,6 +11,11 @@ This course has three half-days with specific purposes:
 
 ## Day 1: Introduction to APIs and OpenAPI
 
+- 30min: Introduction and scenarios: Private, Partner, and Public APIs
+- 30min: API styles and technologies
+- 30min: APIs are different things to different people: They are technical interfaces, they are contracts, they are languages, they are products
+
+- 30min: OpenAPI history: From the Web to SOAP to REST to Swagger to OpenAPI
 
 ## Day 2: Describing APIs with the OpenAPI Specification
 
