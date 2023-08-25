@@ -13,19 +13,24 @@ This course has three half-days with specific purposes:
 
 ### Session 1.1: Introduction to APIs
 
-- 30min: Introduction and scenarios: Private, Partner, and Public APIs
-- 30min: API styles and technologies
-- 30min: APIs are different things to different people: They are technical interfaces, they are contracts, they are languages, they are products
+- Introduction and scenarios: Private, Partner, and Public APIs
+- API styles and technologies
+- APIs are different things to different people: They are technical interfaces, they are contracts, they are languages, they are products
 
 
 ### Session 1.2: Introduction to OpenAPI
 
-- 30min: OpenAPI history: From the Web to SOAP to REST to Swagger to OpenAPI
-- 
+- OpenAPI history: From the Web to SOAP to REST to Swagger to OpenAPI
+- API Governance: From APIs to API Landscapes
+
 
 ## Day 2: Describing APIs with the OpenAPI Specification
 
 ### Session 2.1: Translating REST API Design to OpenAPI
+
+- A Brief History of Data: From JSON to YAML
+- How Web Architecture Started Ruling the World
+- OpenAPI Basics: Info and Paths
 
 
 ### Session 2.2: OpenAPI Advanced Features
