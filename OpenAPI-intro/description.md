@@ -35,6 +35,8 @@ This course has three half-days with specific purposes:
 
 ### Session 2.2: OpenAPI Advanced Features
 
+- Components: Modularizing OpenAPI Documents
+
 
 ## Day 3: Using OpenAPI during the API Lifecycle
 
@@ -42,7 +44,7 @@ This course has three half-days with specific purposes:
 ### Session 3.1: API Documentation and API Linting
 
 - Using OpenAPI for creating API Documentation
-- Testing OpenAPI definitions against API Guidelines
+- Testing OpenAPI documents against API Guidelines
 
 ### Session 3.2: API Mock Servers and Code Generation
 
