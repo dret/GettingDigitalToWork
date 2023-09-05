@@ -5,7 +5,6 @@
 ### 2023
 
 - [API Days Paris](https://www.apidays.global/paris/); Paris, France; December 6-8, 2023
-- [W-JAX](https://jax.de/munich/); Munich, Germany; November 6-10, 2023
 - [API InfoDay](https://www.infodays.de/api); Cologne, Germany; October 25, 2023
 - [API Conference](https://apiconference.net/berlin/); Berlin, Germany; October 17/18, 2023
 - [API Days Australia](https://www.apidays.global/australia/); Melbourne, Australia; October 11/12, 2023
